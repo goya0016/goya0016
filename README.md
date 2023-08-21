@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 
 I'm Nipun Goyal, a coding virtuoso on a journey to turn caffeine into code. My keyboard is my paintbrush, and the screen is my canvas. I dabble in the art of crafting digital experiences that blend technology and creativity seamlessly.
 
-![Coding GIF](https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.tenor.com%2FGfSX-u7VGM4AAAAC%2Fcoding.gif&tbnid=3KL3RFvTk03ieM&vet=12ahUKEwj4qYDQ9-6AAxWhI2IAHRwjDTkQMygBegQIARBl..i&imgrefurl=https%3A%2F%2Ftenor.com%2Fsearch%2Fcoding-gifs&docid=wC1y6bJ6OPI5TM&w=498&h=277&q=coding%20gif&hl=en&ved=2ahUKEwj4qYDQ9-6AAxWhI2IAHRwjDTkQMygBegQIARBl)
-
 ## 👨‍💻 A Bit About Me
 
 - 🔭 Exploring the universe of [Cutting-edge Technology].
