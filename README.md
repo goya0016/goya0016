@@ -27,7 +27,9 @@ I'm Nipun Goyal, a coding virtuoso on a journey to turn caffeine into code. My k
 - 🚀 Turning ideas into [Impactful Solutions].
 - 💬 Ping me about [Tech Enthusiasm] or [Artistic Adventures].
 - 📫 Reach me at goya0016@algonquinlive.com.
-- ⚡ Fun fact: I can speak in JavaScript, Typescript, React, ReactNative etc..
+- 🌱 I’m currently learning **Python, JS & web development**
+- 🤝 I’m looking for help with **Python**
+- ⚡ Fun fact: I can speak in JavaScript, Typescript, React, ReactNative and many more.
 
 ## 🚀 Languages and Technologies I Speak
 
@@ -47,9 +49,8 @@ Dive into the numbers and stars that shape my GitHub universe:
 
 ## 🌐 Connect Across Universes
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/camilocv" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="camilocv" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nipungoyal1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nipungoyal1" height="30" width="40" /></a>
 </p>
 
 May the code be with you! 🚀🌌
