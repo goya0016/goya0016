@@ -43,6 +43,9 @@ In my coding symphony, you'll find notes of:
 
 Dive into the numbers and stars that shape my GitHub universe:
 
+<div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=goya0016&show_icons=true&locale=en&layout=compact" alt="goya0016" /></p>
+
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=goya0016&show_icons=true&theme=radical)
 
 ## 🌐 Connect Across Universes
