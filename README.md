@@ -125,18 +125,6 @@ My automation work focuses on reducing manual processes, improving consistency, 
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=goya0016&show_icons=true&theme=radical&hide_border=true" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=goya0016&layout=compact&theme=radical&hide_border=true" height="170"/>
-
-</div>
-
----
-
 ## 🎥 Beyond Code
 
 Software development isn't my only creative outlet.
