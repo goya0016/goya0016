@@ -75,6 +75,7 @@ Key areas of contribution:
 - Bug fixing and post-development support
 - Agile/Scrum development
 
+[View the project →](https://github.com/goya0016/Scrap_Arts_Music)
 ---
 
 ### 🎬 The Movie Database
